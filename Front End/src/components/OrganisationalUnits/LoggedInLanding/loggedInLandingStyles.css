@@ -1,0 +1,21 @@
+.landing-container>h2{
+    text-align: center;
+    color: #B8DBD9;
+}
+
+.landing-information{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    box-shadow: 5px 5px 5px #586F7C;
+    color: #9cc2c0;
+}
+
+.landing-information>p{
+    padding-bottom: 20px;
+}
+
+.landing-wrapper{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
