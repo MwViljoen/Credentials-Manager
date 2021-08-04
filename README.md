@@ -11,6 +11,7 @@ to access Organizations and division within these organizations.
 ## Contents
 
 - [Installation](#installation)
+- [LiveApp](#liveApp)
 
 ## Installation
 
@@ -38,3 +39,7 @@ Open backend as a Project and type `npm start`.
 Open frontend as a Project and type `npm start`.
 
 Log in using User credentials set up in DB.
+
+## LiveApp
+
+[Credentials Manager](https://credentialsmanagermern.herokuapp.com)
