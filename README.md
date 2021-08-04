@@ -10,7 +10,7 @@ to access Organizations and division within these organizations.
 
 ## Contents
 
-- [Installation](#install)
+- [Installation](#installation)
 
 ## Installation
 
