@@ -8,7 +8,8 @@ The application stores credentials for divisions inside an organization using Mo
 there are divisions, each division has a list of credentials stored. The App itself has users that are given certain roles, Each Role has certain permissions
 to access Organizations and division within these organizations.
 
-##Contents
+## Contents
+
 - [Installation](#install)
 
 ## Installation
