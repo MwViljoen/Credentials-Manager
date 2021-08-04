@@ -16,7 +16,7 @@ to access Organizations and division within these organizations.
 
 Create a project folder on your local machine.
 
-Using terminal or bash and navigate to the folder.
+Using terminal or bash, navigate to the project folder.
 
 Clone repo from github.
 `git clone https://github.com/MwViljoen/Credentials-Manager.git`
