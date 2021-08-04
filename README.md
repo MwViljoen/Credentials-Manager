@@ -43,3 +43,12 @@ Log in using User credentials set up in DB.
 ## LiveApp
 
 [Credentials Manager](https://credentialsmanagermern.herokuapp.com)
+
+Normal User: `Wentzel`
+password: `testing100`
+
+Manager User: `Viljoen`
+password: `testing190`
+
+Admin User: `mw`
+password: `abcd1234`
